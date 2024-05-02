@@ -95,7 +95,7 @@ main {
 }
 
 .hero {
-  background-image: url("/img/background.jpg");
+  background-image: url("./img/background.jpg");
   background-size: contain;
   color: #fff;
   padding: 100px;
