@@ -17,7 +17,7 @@ body {
 
 /* Estilo de la barra de navegación */
 header {
-  background-color: #566d22;
+  background-color: #000000;
   color: #fdfdfd;
   padding: 10px 0;
   display: flex;
@@ -27,7 +27,7 @@ header {
 }
 
 .main {
-  background-color: #859952;
+  background-color: #5a1228;
 }
 
 nav ul {
@@ -102,7 +102,7 @@ main {
 
 .hero {
   background-size: contain;
-  color: #fff;
+  color: #ffffff; /*CAMBIA EL COLOR DE LETRA "BIENVENIDOS GAMERACE" Y DE "lOS MEJORES PRECIOS"*/
   height: 500px;
 
   h1 {
@@ -112,7 +112,7 @@ main {
     border-radius: 8px;
     padding-inline: 15px;
     margin-bottom: 20px;
-    background-color: #0a4b3fe6;
+    background-color: #2f8bc9ec; /* CAMBIA EL COLOR DEL MARCO DEL TITULO DEL MEDIO */
     position: relative;
     top: -300px;
   }
@@ -124,7 +124,7 @@ main {
     padding-inline: 10px;
     padding-block: 5px;
     margin-bottom: 20px;
-    background-color: #0a4b3fe6;
+    background-color: #2f8bc9ec; /* CAMBIA EL COLOR DEL MARCO DEL TITULO DEL MEDIO */
     position: relative;
     top: -300px;
   }
