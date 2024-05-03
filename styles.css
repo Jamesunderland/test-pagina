@@ -167,12 +167,12 @@ main {
 .article h2 {
   font-size: 24px;
   margin-bottom: 10px;
-  color: #ffffffd5;
+  color: #ff4d88;
 }
 
 .main-logo {
-  width: 150px;
-  height: 150px;
+  width: 100px;
+  height: 100px;
   object-fit: fill;
   border-radius: 20px;
 }
